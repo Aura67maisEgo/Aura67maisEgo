@@ -1,5 +1,5 @@
 ## print "hello world"
-[Certificado de Conclusão.pdf](https://github.com/user-attachments/files/33383755/Certificado.de.Conclusao.pdf)
+
 
 <!--
 **Aura67maisEgo/Aura67maisEgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
