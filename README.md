@@ -1,4 +1,5 @@
-## Hi there 👋
+## print 
+hello word
 
 <!--
 **Aura67maisEgo/Aura67maisEgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
